@@ -1,0 +1,24 @@
+* Its an open source cross-platform server-side runtime for JS
+* Handles async opr better faster than existing tools
+
+NodeJS popular
+---------------------------------------
+-> High performance
+-> Role of JS
+-> Light weight
+-> Work well with data - intensive application
+
+Blocking and Non-Blocking
+---------------------------
+-> performing task till the before tasks are performed
+    -- take example as a for loop placed and 
+
+
+Libuv used for perform asyncronus tasks
+
+
+BasicServer Using Http
+------------------------
+
+-> import http module using require function
+->
